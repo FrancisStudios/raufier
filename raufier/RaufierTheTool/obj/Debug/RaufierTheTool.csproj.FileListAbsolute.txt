@@ -1,0 +1,8 @@
+D:\FRANCIS\REPOSITORIES\raufier\raufier\RaufierTheTool\bin\Debug\RaufierTheTool.exe.config
+D:\FRANCIS\REPOSITORIES\raufier\raufier\RaufierTheTool\bin\Debug\RaufierTheTool.exe
+D:\FRANCIS\REPOSITORIES\raufier\raufier\RaufierTheTool\bin\Debug\RaufierTheTool.pdb
+D:\FRANCIS\REPOSITORIES\raufier\raufier\RaufierTheTool\obj\Debug\RaufierTheTool.csprojResolveAssemblyReference.cache
+D:\FRANCIS\REPOSITORIES\raufier\raufier\RaufierTheTool\obj\Debug\RaufierTheTool.exe
+D:\FRANCIS\REPOSITORIES\raufier\raufier\RaufierTheTool\obj\Debug\RaufierTheTool.pdb
+D:\FRANCIS\REPOSITORIES\raufier\raufier\RaufierTheTool\obj\Debug\RaufierTheTool.csproj.GenerateResource.Cache
+D:\FRANCIS\REPOSITORIES\raufier\raufier\RaufierTheTool\obj\Debug\RaufierTheTool.Ablak.resources
