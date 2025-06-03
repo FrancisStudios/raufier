@@ -14,6 +14,8 @@ namespace RaufierTheTool
 		/// Designer variable used to keep track of non-visual components.
 		/// </summary>
 		private System.ComponentModel.IContainer components = null;
+		private System.Windows.Forms.Label serverIpLabel;
+		private System.Windows.Forms.TextBox serverIpInput;
 		
 		/// <summary>
 		/// Disposes resources used by the form.
@@ -36,16 +38,37 @@ namespace RaufierTheTool
 		/// </summary>
 		private void InitializeComponent()
 		{
+			this.serverIpLabel = new System.Windows.Forms.Label();
+			this.serverIpInput = new System.Windows.Forms.TextBox();
 			this.SuspendLayout();
+			// 
+			// serverIpLabel
+			// 
+			this.serverIpLabel.ForeColor = System.Drawing.Color.Black;
+			this.serverIpLabel.Location = new System.Drawing.Point(12, 9);
+			this.serverIpLabel.Name = "serverIpLabel";
+			this.serverIpLabel.Size = new System.Drawing.Size(100, 23);
+			this.serverIpLabel.TabIndex = 0;
+			this.serverIpLabel.Text = "Server IP:";
+			// 
+			// serverIpInput
+			// 
+			this.serverIpInput.Location = new System.Drawing.Point(71, 6);
+			this.serverIpInput.Name = "serverIpInput";
+			this.serverIpInput.Size = new System.Drawing.Size(206, 20);
+			this.serverIpInput.TabIndex = 1;
 			// 
 			// Ablak
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(1265, 624);
+			this.Controls.Add(this.serverIpInput);
+			this.Controls.Add(this.serverIpLabel);
 			this.Name = "Ablak";
 			this.Text = "Raufier | ©2025 Francis Studios";
 			this.ResumeLayout(false);
+			this.PerformLayout();
 
 		}
 	}
